@@ -1,0 +1,19 @@
+{
+  "name": "cowin-notifier",
+  "version": "1.0.0",
+  "description": "Simple Cowin Notifier based on Browser Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilzonme/cowin-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilzonme/cowin-notifier/issues"
+  },
+  "homepage": "https://github.com/gilzonme/cowin-notifier#readme"
+}
